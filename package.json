@@ -1,0 +1,25 @@
+{
+  "name": "gamesapi",
+  "version": "1.0.0",
+  "description": "Testing an implementation of a GraphQL API for games that I play to be used in projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DazBoot/GamesAPI.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DazBoot/GamesAPI/issues"
+  },
+  "homepage": "https://github.com/DazBoot/GamesAPI#readme",
+  "dependencies": {
+    "apollo-server": "^2.9.12",
+    "express": "^4.17.1",
+    "express-graphql": "^0.9.0",
+    "graphql": "^14.5.8"
+  }
+}
