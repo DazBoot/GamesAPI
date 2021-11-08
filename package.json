@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/DazBoot/GamesAPI#readme",
   "dependencies": {
-    "apollo-server": "^2.9.12",
+    "apollo-server": "^2.25.3",
     "express": "^4.17.1",
     "express-graphql": "^0.9.0",
     "graphql": "^14.5.8"
